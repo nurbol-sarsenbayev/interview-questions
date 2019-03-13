@@ -1,4 +1,4 @@
-#### 1. You have function calc. Below given executions of this function. Say the results of these executsion and their types 
+#### 1. You have function calc. Below given executions of this function. Say the results of these executions and their types 
 ```javascript
 function calc(n = 5) {
 	return n + 5;
