@@ -8,3 +8,16 @@ function calc(n = 5) {
 2. `calc(null)`
 3. `calc("")`
 4. `calc(undefined)`
+
+#### 2. How this code will work? Explain it.
+```javascript
+let letter = 'A';
+switch(letter) {
+	case 'A':
+		const x = 2;
+		console.log('A', x);
+	case 'B':
+		console.log('B', x);
+}
+console.log('Last', x);
+```
