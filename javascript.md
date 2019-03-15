@@ -21,3 +21,14 @@ switch(letter) {
 }
 console.log('Last', x);
 ```
+#### 3. How this code will work?
+```javascript
+let letter = 'B';
+switch(letter) {
+	case 'A':
+		const x = 2;
+		console.log('A', x);
+	case 'B':
+		console.log('B', x);
+}
+```
