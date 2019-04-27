@@ -1,4 +1,4 @@
-#### 1. Write overload constructors to class Person, so that you can create instance of the class like `new Person`, `new Person({ name: 'Nurbol', age: 27, isMale: true })`, `new Person({ name: 'Nurbol', age: 27 })` and `new Person('Aigerim', 25, false)`
+#### 1. Write overload constructors to class Person, so that you can create instance of the class like `new Person()`, `new Person({ name: 'Nurbol', age: 27, isMale: true })`, `new Person({ name: 'Nurbol', age: 27 })` and `new Person('Aigerim', 25, false)`
 ```ts
 class Person {
   name: string = 'Unknown';
