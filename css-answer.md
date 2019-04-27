@@ -49,3 +49,14 @@ The size of the margin as a percentage, relative to the width of the containing 
 margin-top: 200px;
 margin-left: 200px;
 ```
+#### 3. Given a button. When pressed, the button should rise by one pixel without affecting the remaing elements. Implement it using only css.
+```html
+<button class="btn">Button</button>
+```
+##### Answer:
+```css
+.btn:active {
+  position: relative;
+  top: -1px;
+}
+```
