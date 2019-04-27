@@ -32,3 +32,34 @@ switch(letter) {
 		console.log('B', x);
 }
 ```
+#### 3. What will see in console? Why?
+```js
+class Base {
+    constructor() {
+        this.name = 'Base';
+		this.getName = () => {
+			return this.name;
+    	}
+    }
+
+	say(str) {
+        console.log(`${this.getName()}: ${str}`);
+    }
+}
+
+class Child extends Base {
+	constructor() {
+		super();
+		this.name = 'Child';
+    }
+
+ 	getName() {
+		return 'Child2';
+    }
+}
+
+const c = new Child();
+console.log(c.name);
+console.log(c.getName());
+console.log(c.say('Hello'));
+```
