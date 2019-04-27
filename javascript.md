@@ -32,7 +32,7 @@ switch(letter) {
 		console.log('B', x);
 }
 ```
-#### 3. What will see in console? Why?
+#### 4. What will see in console? Why?
 ```js
 class Base {
 	constructor() {
