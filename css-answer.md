@@ -60,3 +60,28 @@ margin-left: 200px;
   top: -1px;
 }
 ```
+#### 4. What will be actually size of element in pixel?
+```css
+.block {
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
+  padding: 10px;
+  margin: 10px;
+}
+```
+##### Answer:
+width + padding + border = actual width of an element so width = 322px
+height + padding + border = actual height of an element so height = 122px
+#### 5. What css property should be added so that the actual width of the element is 300px and the height is 100px?
+##### Answer:
+```css
+.block {
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+```
