@@ -24,7 +24,7 @@
     transform: translate(-50%, -50%);
   }
 ```
-#### 2. How many pixels margin top and margin left of child block?
+#### 2. Say size of margin top and margin left of child block in pixels?
 ```html
 <div class="parent">
   <div class="child"></div>
@@ -44,7 +44,7 @@
 }
 ```
 ##### Answer:
-percentage is calculated to relative to the parent container's width
+The size of the margin as a percentage, relative to the width of the containing block.
 ```css
 margin-top: 200px;
 margin-left: 200px;
