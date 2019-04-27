@@ -24,7 +24,7 @@
     transform: translate(-50%, -50%);
   }
 ```
-#### 1. How many pixels margin top and margin left of child block?
+#### 2. How many pixels margin top and margin left of child block?
 ```html
 <div class="parent">
   <div class="child"></div>
