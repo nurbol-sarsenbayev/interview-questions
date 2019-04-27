@@ -34,13 +34,11 @@
 .parent {
   width: 400px;
   height: 300px;
-  border: 1px solid red;
 }
 
 .child {
   width: 100px;
   height: 50px;
-  background: red;
   margin-top: 50%;
   margin-left: 50%;
 }
