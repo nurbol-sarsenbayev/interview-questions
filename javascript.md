@@ -69,7 +69,7 @@ console.log(c.say('Hello'));
 
 #### 7. What is `instanceof` used for? How it works?
 
-#### 8. What should be a, so that expression `a == 1 && a == 2` returns `true`?
+#### 8. What should be `a`, so that expression `a == 1 && a == 2` returns `true`?
 ##### Answer:
 ```js
 var a = {
