@@ -118,6 +118,10 @@ p:first-child, p:last-child {
 ```
 ##### Answer:
 The first paragraph will be red. The other will be blue. Because, initially, the last element is selected, then it is checked that it is `<p>` element.
+[Link to material](https://webref.ru/layout/structural-pseudo-classes/first-child)
+
+#### 15. 
+
 #### 13. Write css selector for elements with attribute `data-target`. For elements which data-target attribute has value `call-modal`.
 ##### Answer:
 ```css
@@ -126,4 +130,6 @@ The first paragraph will be red. The other will be blue. Because, initially, the
 ```
 #### 14. What do you know about adaptive design? How implement it in css?
 #### 15. About media query, break points?
-
+#### 18. Tell about BEM methodology.
+##### Answer:
+BEM - Block, Element and Modicificator
