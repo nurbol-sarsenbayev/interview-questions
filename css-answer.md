@@ -85,3 +85,8 @@ height + padding + border = actual height of an element so height = 122px
   box-sizing: border-box;
 }
 ```
+#### 6. What do you know about css positions?
+#### 7. What do you know about display: flex?
+#### 8. What do you know margin collapse?
+#### 9. What do you know about css display property?
+#### 10. What do you know about padding, margin and border?
