@@ -90,6 +90,8 @@ height + padding + border = actual height of an element so height = 122px
 #### 8. What do you know margin collapse?
 #### 9. What do you know about css display property?
 #### 10. What is difference between display: inline and display: inline-block?
+##### Answer:
+For inline elements don't effect these css properties: width, height, margin-top, margin-bottom, padding-top, padding-bottom
 #### 11. What do you know about padding, margin and border?
 #### 12. What pseudo classes and pseudo elements do you know in css?
 ##### Answer:
