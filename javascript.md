@@ -66,3 +66,5 @@ console.log(c.say('Hello'));
 #### 5. What do know about events focus and blur?
 
 #### 6. What attribute you should add div element, so that it can trigger focus and blur events?
+
+#### 7. What is `instanceof` used for? How it works?
