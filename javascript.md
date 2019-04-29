@@ -68,3 +68,14 @@ console.log(c.say('Hello'));
 #### 6. What attribute you should add div element, so that it can trigger focus and blur events?
 
 #### 7. What is `instanceof` used for? How it works?
+
+#### 8. What should be a, so that expression `a == 1 && a == 2` returns `true`?
+##### Answer:
+```js
+var a = {
+  sum: 1, 
+  valueOf: function() {
+    return this.sum++;
+  } 
+}
+```
