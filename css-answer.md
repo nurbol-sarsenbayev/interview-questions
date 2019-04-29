@@ -89,4 +89,8 @@ height + padding + border = actual height of an element so height = 122px
 #### 7. What do you know about display: flex?
 #### 8. What do you know margin collapse?
 #### 9. What do you know about css display property?
-#### 10. What do you know about padding, margin and border?
+#### 10. What is difference between display: inline and display: inline-block?
+#### 11. What do you know about padding, margin and border?
+#### 12. What pseudo classes do you know in css?
+##### Answer:
+::after, ::before, :focus, : blur, :active, :hover
