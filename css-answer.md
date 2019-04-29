@@ -97,6 +97,27 @@ For inline elements don't effect these css properties: width, height, margin-top
 ##### Answer:
 ::after, ::before, :focus, : blur, :active, :hover
 #### 13. What do you know about `::after` and `::before` pseudo elements?
+#### 14. Tell about pseudo class `:last-child` and `:first-child`. What color will in each paragraphs?
+```html
+<section>
+  <p>Один</p>
+  <div>Uno</div>
+  <p>Два</p>
+  <div>Dos</div>
+  <p>Три</p>
+  <div>Tres</div>
+</section>
+```
+```css
+p {
+  color: red;
+}
+p:first-child, p:last-child {
+  color: blue;
+}
+```
+##### Answer:
+First and
 #### 13. Write css selector for elements with attribute `data-target`. For elements which data-target attribute has value `call-modal`.
 ##### Answer:
 ```css
