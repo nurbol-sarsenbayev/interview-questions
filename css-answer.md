@@ -117,7 +117,7 @@ p:first-child, p:last-child {
 }
 ```
 ##### Answer:
-The first paragraph will be red. The other will be blue. Because, initially, the last element is selected, then it is checked that it is <p> element.
+The first paragraph will be red. The other will be blue. Because, initially, the last element is selected, then it is checked that it is `<p>` element.
 #### 13. Write css selector for elements with attribute `data-target`. For elements which data-target attribute has value `call-modal`.
 ##### Answer:
 ```css
