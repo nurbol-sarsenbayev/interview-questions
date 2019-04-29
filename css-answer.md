@@ -91,7 +91,7 @@ height + padding + border = actual height of an element so height = 122px
 #### 9. What do you know about css display property?
 #### 10. What is difference between display: inline and display: inline-block?
 #### 11. What do you know about padding, margin and border?
-#### 12. What pseudo classes do you know in css?
+#### 12. What pseudo classes and pseudo elements do you know in css?
 ##### Answer:
 ::after, ::before, :focus, : blur, :active, :hover
 #### 13. Write css selector for elements with attribute `data-target`. For elements which data-target attribute has value `call-modal`.
