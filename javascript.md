@@ -63,3 +63,6 @@ console.log(c.name);
 console.log(c.getName());
 console.log(c.say('Hello'));
 ```
+#### 5. What do know about events focus and blur?
+
+#### 6. What attribute you should add div element, so that it can trigger focus and blur events?
