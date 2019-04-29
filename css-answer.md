@@ -100,6 +100,6 @@ height + padding + border = actual height of an element so height = 122px
 [data-target] { }
 [data-target="call-modal"] { }
 ```
-#### 14. What do you know adaptive design?
+#### 14. What do you know about adaptive design? How implement it in css?
 #### 15. About media query, break points?
 
