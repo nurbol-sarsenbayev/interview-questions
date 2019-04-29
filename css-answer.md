@@ -96,6 +96,7 @@ For inline elements don't effect these css properties: width, height, margin-top
 #### 12. What pseudo classes and pseudo elements do you know in css?
 ##### Answer:
 ::after, ::before, :focus, : blur, :active, :hover
+#### 13. What do you know about `::after` and `::before` pseudo elements?
 #### 13. Write css selector for elements with attribute `data-target`. For elements which data-target attribute has value `call-modal`.
 ##### Answer:
 ```css
