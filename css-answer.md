@@ -94,3 +94,9 @@ height + padding + border = actual height of an element so height = 122px
 #### 12. What pseudo classes do you know in css?
 ##### Answer:
 ::after, ::before, :focus, : blur, :active, :hover
+#### 13. Write css selector for elements with attribute `data-target`. For elements which data-target attribute has value `call-modal`.
+##### Answer:
+```css
+[data-target] { }
+[data-target="call-modal"] { }
+```
