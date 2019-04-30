@@ -60,6 +60,12 @@ margin-left: 200px;
   top: -1px;
 }
 ```
+or
+```css
+.btn:active {
+  transform: translateY(-1px);
+}
+```
 #### 4. What will be actually size of element in pixel?
 ```css
 .block {
