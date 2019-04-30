@@ -101,7 +101,7 @@ For inline elements don't effect these css properties: width, height, margin-top
 #### 11. What do you know about padding, margin and border?
 #### 12. What pseudo classes and pseudo elements do you know in css?
 ##### Answer:
-::after, ::before, :focus, : blur, :active, :hover
+::after, ::before, ::placeholder, :focus, :active, :hover, :checked, :required, :valid, :invalid, :disabled, :enabled, :last-child, :first-child, :nth-child, :first-of-type, :last-of-type
 #### 13. What do you know about `::after` and `::before` pseudo elements?
 #### 14. Tell about pseudo class `:last-child` and `:first-child`. What color will in each paragraphs?
 ```html
