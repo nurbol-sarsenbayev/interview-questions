@@ -86,7 +86,7 @@ height + padding + border = actual height of an element so height = 122px
 }
 ```
 #### 6. What do you know about css positions?
-#### 7. What do you know about display: flex?
+#### 7. What do you know about display: flex? About flex-grow, flex-shrink, flex-basis?
 #### 8. What do you know margin collapse?
 #### 9. What do you know about css display property?
 #### 10. What is difference between display: inline and display: inline-block?
@@ -133,3 +133,10 @@ The first paragraph will be red. The other will be blue. Because, initially, the
 #### 18. Tell about BEM methodology.
 ##### Answer:
 BEM - Block, Element and Modicificator
+#### 19. What do you know about `calc` in css?
+#### 20. By default, which elements can be focused?
+##### Answer:
+link (`<a>`), button and form elements (`<input />`)
+#### 21. How to force other elements to work with `:focus`?
+##### Answer:
+add tabindex attribute
