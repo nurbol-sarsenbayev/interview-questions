@@ -81,7 +81,7 @@ var a = {
 ```
 #### 9. How to clone object except one property using ES6?
 ```js
-cont { x, ...rest } = obj;
+const { x, ...rest } = obj;
 const clonedObj = { ...rest };
 ```
 
