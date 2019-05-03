@@ -80,6 +80,7 @@ var a = {
 }
 ```
 #### 9. How to clone object except one defined property using ES6?
+##### Answer:
 ```js
 const { x, ...rest } = obj;
 const clonedObj = { ...rest };
