@@ -85,5 +85,32 @@ var a = {
 const { x, ...rest } = obj;
 const clonedObj = { ...rest };
 ```
+#### 10. What will be the value of the text element, when we click on the button?
+```html
+<input type="button" id="button" value="Нажми меня">
+<input type="text" id="text" size="60">
 
+<script>
+
+  button.onclick = function() {
+    text.value += ' ->в onclick ';
+
+    text.focus();
+
+    text.value += ' из onclick-> ';
+  };
+
+  text.onfocus = function() {
+    text.value += ' !focus! ';
+  };
+</script>
+```
+##### Answer:
+The value of the text element will be " ->в onclick  !focus!  из onclick-> " 
+#### 11. When events are processed synchronously?
+##### Answer:
+When an event is triggered not by a visitor, but by code. Example:
+```js
+elem.focus();
+```
 
