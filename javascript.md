@@ -113,4 +113,6 @@ When an event is triggered not by a visitor, but by code. Example:
 ```js
 elem.focus();
 ```
-
+#### 12. What is the main difference between yarn and npm?
+##### Answer:
+Using yarn, you can add cashed packages when you are offline.
