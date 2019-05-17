@@ -123,3 +123,4 @@ Using yarn, you can add cashed packages when you are offline.
 ```js
 event.stopPropagation()
 ```
+#### 16. What do you know about JS event delegation?
