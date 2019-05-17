@@ -116,3 +116,4 @@ elem.focus();
 #### 12. What is the main difference between yarn and npm?
 ##### Answer:
 Using yarn, you can add cashed packages when you are offline.
+#### 13. What do you know about DOM and BOM?
