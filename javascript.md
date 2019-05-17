@@ -118,3 +118,8 @@ elem.focus();
 Using yarn, you can add cashed packages when you are offline.
 #### 13. What do you know about DOM and BOM?
 #### 14. What do you know about JS event bubbling and capturing?
+#### 15. How to stop JS event bubbling in event handler?
+##### Answer:
+```js
+event.stopPropagation()
+```
