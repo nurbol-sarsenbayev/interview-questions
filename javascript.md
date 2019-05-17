@@ -117,3 +117,4 @@ elem.focus();
 ##### Answer:
 Using yarn, you can add cashed packages when you are offline.
 #### 13. What do you know about DOM and BOM?
+#### 14. What do you know about JS event bubbling and capturing?
