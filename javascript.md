@@ -124,3 +124,15 @@ Using yarn, you can add cashed packages when you are offline.
 event.stopPropagation()
 ```
 #### 16. What do you know about JS event delegation?
+#### 17. What happens when we click on link?
+##### Answer:
+```html
+<script>
+  function handler() {
+    alert( "..." );
+    return false;
+  }
+</script>
+
+<a href="http://w3.org" onclick="handler()">w3.org</a>
+```
