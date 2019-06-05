@@ -146,3 +146,7 @@ link (`<a>`), button and form elements (`<input />`)
 #### 21. How to force other elements to work with `:focus`?
 ##### Answer:
 add tabindex attribute
+#### 22. What css preprocessors do you know?
+##### Answer:
+Less, Sass (Scss)
+#### 23. What is the difference between flex and grid?
