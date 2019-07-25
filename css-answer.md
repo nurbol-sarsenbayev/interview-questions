@@ -152,4 +152,5 @@ Less, Sass (Scss)
 #### 23. What is the difference between flex and grid?
 #### 24. In which situation css height in percent will not work?
 If the height of the outdoor unit is calculated by its content, then the height in% does not work, and is replaced by height: auto. Except for the case when the element has position: absolute.
-
+#### 25. Что можно сделать с float, то что нельзя делать с flex?
+Обтекание текста
