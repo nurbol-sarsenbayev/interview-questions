@@ -11,3 +11,4 @@ http://learn.javascript.ru/cookie
 #### Что такое tree-shaking в webpack-e?
 #### Что можете сказать про unint и end-to-end тестирование в React?
 #### Какие техники автоматического тестирование вы знаете?
+Behavior Driven Development (BDD)
