@@ -7,3 +7,8 @@
 #### Расскажите различие между React.Component и React.PureComponent.
 
 #### При перезагрузке страницы, вызывется ли componentWillUnmount у Реакт компонента? 
+
+#### Паттерны Реакта
+render функция
+свойства элементы
+children props
