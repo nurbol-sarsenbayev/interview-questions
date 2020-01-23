@@ -12,3 +12,5 @@
 render функция
 свойства элементы
 children props
+
+#### Напиши ErrorBoundry компонент
